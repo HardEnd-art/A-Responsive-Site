@@ -252,10 +252,12 @@ footer{
         gap: 24px;
     }
     #experienced-badge{
-        margin-left: 5px;
+        margin-left: 0px;
+        margin-top: 0px;
     }
     footer p{
         justify-content: center;
+        margin: 0px;
     }
 }
 

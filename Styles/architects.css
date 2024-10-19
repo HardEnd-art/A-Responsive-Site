@@ -221,7 +221,6 @@ footer{
     align-items: center;
     max-width: 1440px;
     margin: 0 auto;
-    background-color: rgba(255, 144, 14, 0.1);
     height: 100px;
     margin-top: 130px;
     margin-bottom: 216px;
@@ -254,6 +253,7 @@ footer{
     #experienced-badge{
         margin-left: 0px;
         margin-top: 0px;
+        width: 100%;
     }
     footer p{
         justify-content: center;
